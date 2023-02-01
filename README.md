@@ -7,20 +7,8 @@ Bienvenidos a mi repositorio, aquí encontraras  diferentes proyectos y trabajos
 ### Habilidades 💪
 Estos son los conocimientos que poseo:
 
-###### - HTML
-###### - JavaScript
-###### - CSS
-###### - React
-###### - Redux
-###### - NodeJS
-###### - Express
-###### - Sequelize
-###### - PostgreSQL
-###### - Mongoose
-###### - MongoDB
-###### - NextJS
-###### - MercadoPago
-###### - Nodemailer
+###### - HTML - JavaScript - CSS - React - Redux - NodeJS - Express - Sequelize - PostgreSQL - Mongoose - MongoDB - NextJS- MercadoPago
+
 
 
 Mi correo personal es emax1@hotmail.com
