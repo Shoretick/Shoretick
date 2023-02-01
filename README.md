@@ -1,9 +1,9 @@
 ### Hi there 👋
-Hola, soy Sebastian Peralta 
+Hola, soy Emmanuel
 image
 
 
-Bienvenidos a mi repositorio, aquí encontraras el proceso de desarrollo de mis habilidades y hallaras también diferentes proyectos y trabajos realizados ya sea en grupo o individualmente. Soy Desarrollador Web Full Stack mi trabajo se basa en el desarrollo propio y del proyecto mismo.
+Bienvenidos a mi repositorio, aquí encontraras  diferentes proyectos y trabajos realizados ya sea en grupo o individualmente. Soy Desarrollador Web Full Stack. 
 
 
 Habilidades 💪
@@ -25,9 +25,9 @@ Cloudinary
 Nodemailer
 OpenAI
 
-Mi correo personal es sebssjb@gmail.com
+Mi correo personal es emax1@hotmail.com
 
-Para cualquier comunicación no dudes en visitar mi perfil de LinkedIn
+te invito a visitar mi linkedin https://www.linkedin.com/in/jesus-emmanuel-castro/
 
 <!--
 **Shoretick/Shoretick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
