@@ -5,7 +5,7 @@ Bienvenidos a mi repositorio, aquí encontraras  diferentes proyectos y trabajos
 
 
 Habilidades 💪
-Estas son los conocimientos que poseo:
+Estos son los conocimientos que poseo:
 
 HTML
 JavaScript
