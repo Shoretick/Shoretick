@@ -4,7 +4,7 @@
 Bienvenidos a mi repositorio, aquí encontraras  diferentes proyectos y trabajos realizados en grupo e individualmente. Soy Desarrollador Web Full Stack. 
 
 
-###Habilidades 💪
+### Habilidades 💪
 Estos son los conocimientos que poseo:
 
 HTML
