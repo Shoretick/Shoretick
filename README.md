@@ -11,7 +11,7 @@ HTML
 JavaScript
 CSS
 React
-Redux / Toolkit
+Redux
 NodeJS
 Express
 Sequelize
@@ -19,9 +19,9 @@ PostgreSQL
 Mongoose
 MongoDB
 NextJS
-Cloudinary
+MercadoPago
 Nodemailer
-OpenAI
+
 
 Mi correo personal es emax1@hotmail.com
 
