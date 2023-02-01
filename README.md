@@ -1,9 +1,7 @@
-### Hi there 👋
-Hola, soy Emmanuel
-image
+### Hi there 👋 soy Emmanuel Castro
 
 
-Bienvenidos a mi repositorio, aquí encontraras  diferentes proyectos y trabajos realizados ya sea en grupo o individualmente. Soy Desarrollador Web Full Stack. 
+Bienvenidos a mi repositorio, aquí encontraras  diferentes proyectos y trabajos realizados en grupo e individualmente. Soy Desarrollador Web Full Stack. 
 
 
 Habilidades 💪
